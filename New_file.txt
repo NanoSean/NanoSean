@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 I am editing this offline on desktop.
 
 This file is being changed.
 
 
 
-Deleted above line
-=======
-I am editing this offline on desktop.
->>>>>>> parent of 14bf06b... Added line
+Deleted above line.
